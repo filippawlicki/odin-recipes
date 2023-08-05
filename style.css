@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h4 {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+a {
+    font-size: 24px;
+    font-weight: bold
+}
+
+#main-image {
+    height: 300px;
+    width: auto;
+}
+
+.description {
+    text-align: center;
+    font-size: 20px;
+}
+
+li {
+    color: darkgreen;
+    font-weight: 400;
+}
